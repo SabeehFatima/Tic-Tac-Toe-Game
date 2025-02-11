@@ -1,7 +1,5 @@
 
 # Tic-Tac-Toe (C++)
-
-## About
 A simple console-based Tic-Tac-Toe game implemented in C++ using the Code::Blocks IDE. It features a dynamic board, turn-based gameplay, and automatic win/draw detection.
 
 ## Features
