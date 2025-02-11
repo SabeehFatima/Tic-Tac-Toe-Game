@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1704624945 source:c:\users\hp\desktop\pf practice\tic_tac_toe\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+	<ctime>
+
